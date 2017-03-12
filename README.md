@@ -1,0 +1,2 @@
+# KinectMayFes
+Smart Trashbox Project
